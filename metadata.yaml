@@ -1,0 +1,36 @@
+_repo: Tales-from-the-X-bar-Horse-Camp--The-Blue-Roan--Outlaw--and-Other-Stories_41529
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41529-h/images/front_cover.jpg
+creator:
+  author:
+    agent_name: Barnes, Will C. (Will Croft)
+    alias: Barnes, William Croft
+    birthdate: 1858
+    deathdate: 1936
+    gutenberg_agent_id: '41221'
+    url: http://www.gutenberg.org/2009/agents/41221
+    wikipedia: http://en.wikipedia.org/wiki/Will_C._Barnes
+description: ''
+gutenberg_issued: '2012-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41529'
+  lccn: '20012600'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcsh 'Horses -- Fiction'
+- !lcc 'PS'
+tableOfContents: Sunrise on the desert (poem) -- The blue-roan "outlaw" -- Campin'
+  out -- Popgun plays Santa Claus -- "Just regulars" -- The stampede on the Turkey
+  Track range -- The Navajo turquoise ring -- An Arizona etude --Stutterin' Andy --
+  The passing of Bill Jackson -- The tenderfoot from Yale -- "Dummy" -- The mummy
+  from the Grand Cañon -- Jumping at conclusions -- Lost in the Petrified Forest --
+  "Camel huntin'" -- The Trinidad kid -- "Pablo" -- The shooting up of Horse Head.
+title: 'Tales from the X-bar Horse Camp: The Blue-Roan "Outlaw" and Other Stories'
+url: http://www.gutenberg.org/ebooks/41529
